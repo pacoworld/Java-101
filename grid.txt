@@ -1,52 +1,13 @@
-Its always better if you find edge cases by yourself rather than buying test cases with valuable hackos!!   May be this case won't help you to find the   buuuuuug  
+3
+6 2
+0 1 0 1 0 1
+10 6
+0 0 1 1 0 0 1 1 0 0
+10 3
+0 0 1 1 0 0 1 1 0 0
 
--------------------------------------------------------------
+_______________________
 
-30
-Its
-always
-better
-if
-you
-find
-edge
-cases
-by
-yourself
-rather
-than
-buying
-test
-cases
-with
-valuable
-hackos
-May
-be
-this
-case
-won
-t
-help
-you
-to
-find
-the
-buuuuuug
-
-____________________________________________________________________________________________
-
-
-           YES      leading spaces        are valid,    problemsetters are         evillllll
-
-------------------------------------------------------------------------------------
-
-8
 YES
-leading
-spaces
-are
-valid
-problemsetters
-are
-evillllll
+NO
+YES
